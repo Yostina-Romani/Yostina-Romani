@@ -30,9 +30,9 @@
 
 ## 📬 Let's Connect!
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINK"><img src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/yostina-romani-9100a737a/"><img src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.youtube.com/@YOUR-CHANNEL"><img src="https://img.shields.io/badge/-YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:youstina.romani@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
