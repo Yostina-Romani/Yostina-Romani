@@ -9,7 +9,7 @@
 ## ✨ About Me  
 🎓 **2nd year student** at Faculty of Computer and Information Science, Assiut University  
 💻 Interested in **Backend Development, AI, and Competitive Programming**  
-🎥 Creator on **YouTube (Kids’ Songs & AI Animated Stories)**  
+🎥 Creator on **AI Kids’ Songs & Animated Stories**  
 🌸 Love combining **creativity + coding** with a magical touch ✨  
 
 ---
@@ -23,7 +23,7 @@
 
 ## 🌟 Featured Projects
 - 🎮 **Snake Game with Tkinter** → Python desktop game  
-- 🎶 **AI Kids’ Songs & Videos** → Published on YouTube  
+- 🎶 **AI Kids’ Songs & Videos** → Creative AI Projects  
 - 🏆 **Problem Solving** → Active on Codeforces & ICPC training  
 
 ---
@@ -31,7 +31,6 @@
 ## 📬 Let's Connect!
 <p align="center">
   <a href="https://www.linkedin.com/in/yostina-romani-9100a737a/"><img src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.youtube.com/@YOUR-CHANNEL"><img src="https://img.shields.io/badge/-YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   <a href="mailto:youstina.romani@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
