@@ -7,7 +7,7 @@
 ---
 
 ## ✨ About Me  
-🎓 **third year student** at Faculty of Computer and Information Science, Assiut University  
+🎓 **3rd year student** at Faculty of Computer and Information Science, Assiut University  
 💻 Passionate about **Software Development, Backend Development, and Problem Solving**  
 🌸 Love building **real-world applications** and learning new technologies  
 
