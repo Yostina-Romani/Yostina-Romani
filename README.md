@@ -8,23 +8,30 @@
 
 ## ✨ About Me  
 🎓 **2nd year student** at Faculty of Computer and Information Science, Assiut University  
-💻 Interested in **Backend Development, AI, and Competitive Programming**  
-🎥 Creator on **AI Kids’ Songs & Animated Stories**  
-🌸 Love combining **creativity + coding** with a magical touch ✨  
+💻 Passionate about **Software Development, Backend Development, and Problem Solving**  
+🌸 Love building **real-world applications** and learning new technologies  
 
 ---
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,git,github,django" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,csharp,python,html,css,js,git,github,mysql,visualstudio" />
 </p>
 
 ---
 
 ## 🌟 Featured Projects
-- 🎮 **Snake Game with Tkinter** → Python desktop game  
-- 🎶 **AI Kids’ Songs & Videos** → Creative AI Projects  
-- 🏆 **Problem Solving** → Active on Codeforces & ICPC training  
+- 🏥 **Clinic Management System** | C#, WinForms, MySQL  
+  Desktop app to manage patient records, appointments, and attendance. Features: Add, Update, Delete, Backup, Secure Login. Demonstrates CRUD operations, GUI design, and database integration.
+
+- 🎓 **Student Management System** | C++ (Console)  
+  Console-based application to manage student information and attendance. Includes file handling, text-based storage, and interactive menus.
+
+- 🎮 **Snake Game (GUI Version)** | Python, Tkinter  
+  Interactive game implementing OOP concepts, real-time movement, collision detection, and score tracking.
+
+- 🏆 **Problem Solving**  
+  Solved 200+ challenges on Codeforces & ICPC training, strengthening algorithmic thinking and coding skills.
 
 ---
 
@@ -32,10 +39,11 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/yostina-romani-9100a737a/"><img src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:youstina.romani@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/Yostina-Romani"><img src="https://img.shields.io/badge/-GitHub-%2312100E?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/56/3f/74/563f748f0c24954915a43b44e07039e4.gif" width="480" alt="Cute Cartoon Room with Laptop"/>
+  <img src="https://i.pinimg.com/originals/56/3f/74/563f748f0c24954915a43b44e07039e4.gif" width="480" alt="Coding Workspace Animation"/>
 </p>
