@@ -7,7 +7,7 @@
 ---
 
 ## ✨ About Me  
-🎓 **2nd year student** at Faculty of Computer and Information Science, Assiut University  
+🎓 **third year student** at Faculty of Computer and Information Science, Assiut University  
 💻 Passionate about **Software Development, Backend Development, and Problem Solving**  
 🌸 Love building **real-world applications** and learning new technologies  
 
@@ -38,7 +38,7 @@
 ## 📬 Let's Connect!
 <p align="center">
   <a href="https://www.linkedin.com/in/yostina-romani-9100a737a/"><img src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:youstina.romani@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:yostina.romani@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/Yostina-Romani"><img src="https://img.shields.io/badge/-GitHub-%2312100E?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
